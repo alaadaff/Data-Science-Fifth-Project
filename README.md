@@ -6,6 +6,8 @@ In this work an ARIMA model and a Facebook Prophet model have been developed to 
 
 References that were used to assist in this work:
 
-https://github.com/facebook/prophet
-https://www.kaggle.com/c/web-traffic-time-series-forecasting
-https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+- https://github.com/facebook/prophet
+
+- https://www.kaggle.com/c/web-traffic-time-series-forecasting
+
+- https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
